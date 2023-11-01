@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "hello_world_nbdev"
+  site-url: "https://mtsyr3.github.io/hello_world_nbdev"
+  description: "helloworld nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/mtsyr3/hello_world_nbdev"
